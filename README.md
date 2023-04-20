@@ -12,4 +12,4 @@ Then insert these parameters into makel_maker_RNN.py and build your model.
 
 model_finder_conv.py finds best convolution model. This is slightly different because it will save the best model file as a .h5 file so you don't have to rebuild it. When opening this model you will have to load it differently using a custom scope object but that is explained within the code.
 
-I recommend using google collab to run convolution models as GPUs on there make it much quichker process.
+I recommend using google collab to run convolution models as GPUs on there make it much quicker process.
